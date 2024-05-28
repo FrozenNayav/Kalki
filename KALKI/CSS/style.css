@@ -58,20 +58,6 @@ header .middle-header {
 
 
 
-.services{
-    margin-top: 30px;
-    display: flex;
-    justify-content: center;
-}
-.services-items{
-text-align: center;
-}
-.services-items{
-    font-size: 20px;
-}
-.services-items h2{
-    font-size: 20px;
-}
 
 /* pop up end */
 header .middle-header .icons .wishlist {
@@ -83,4 +69,55 @@ header .middle-header .icons .wishlist {
     padding: 10px;
 
 }
+
+.services{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.services-items{
+text-align: center;
+}
+.services-items{
+    font-size: 20px;
+}
+.services-items h3{
+    font-size: 12px;
+}
+
+
+.product-description .card-button{
+    background-color: aliceblue;
+    padding: 10px 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    width: fit-content;
+display: block;
+margin: 0px auto;
+}
+
+.product-description {
+    color: white;
+    text-align: center;
+    margin-bottom: 15px;
+    
+    }
+    
+    .product-description {
+        width: 100%;
+        position: absolute;
+        left: 10px;
+        bottom:30px
+    }
+
+ 
+
+
+
+
+
+
+
+
+
 
